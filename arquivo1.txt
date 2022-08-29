@@ -1,1 +1,3 @@
 primeiro arquivo dentro do administrador
+Adicionando alteração no arquibvo que copiamos para o repositório  Github
+Texto adicionado direramente no Github no arquivo
